@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    app:cardCornerRadius="14dp"
+    app:cardElevation="1dp"
+    app:cardBackgroundColor="@color/card_background"
+    app:rippleColor="@color/ripple_tint">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp">
+
+        <!-- Day name -->
+        <TextView
+            android:id="@+id/textDayName"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/on_surface"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <!-- Routine name or "Rest Day" or "Tap to set up" -->
+        <TextView
+            android:id="@+id/textRoutineName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/primary_dark"
+            android:textSize="14sp" />
+
+        <!-- Edit indicator -->
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@android:drawable/ic_menu_edit"
+            app:tint="@color/on_surface_variant"
+            android:contentDescription="@string/edit_routine" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="8dp"
+    android:background="@color/card_background">
+
+    <!-- Exercise name -->
+    <TextView
+        android:id="@+id/textRoutineExerciseName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/on_surface"
+        android:textSize="14sp" />
+
+    <!-- Target sets input -->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="4dp"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTargetSets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/target_sets_hint"
+            android:inputType="number"
+            android:textSize="13sp"
+            android:gravity="center" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="×"
+        android:textSize="16sp"
+        android:textColor="@color/on_surface_variant" />
+
+    <!-- Target reps input -->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="4dp"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTargetReps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/target_reps_hint"
+            android:inputType="number"
+            android:textSize="13sp"
+            android:gravity="center" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!-- Remove button -->
+    <ImageButton
+        android:id="@+id/btnRemoveRoutineExercise"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@android:drawable/ic_menu_close_clear_cancel"
+        android:contentDescription="@string/remove_exercise"
+        app:tint="@color/error" />
+
+</LinearLayout>

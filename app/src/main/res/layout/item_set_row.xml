@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="4dp"
+    android:background="@color/card_background">
+
+    <!-- Set number label (e.g. "1", "2", "3") -->
+    <TextView
+        android:id="@+id/textSetNumber"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/on_surface_variant"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <!-- Reps input -->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="4dp"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editReps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_reps"
+            android:inputType="number"
+            android:textSize="14sp"
+            android:gravity="center" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!-- Weight input -->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="4dp"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editWeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_weight"
+            android:inputType="numberDecimal"
+            android:textSize="14sp"
+            android:gravity="center" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!-- Remove set button -->
+    <ImageButton
+        android:id="@+id/btnRemoveSet"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="@string/delete_workout"
+        android:src="@android:drawable/ic_menu_close_clear_cancel"
+        app:tint="@color/on_surface_variant" />
+
+</LinearLayout>

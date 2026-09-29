@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">MyRoutine</string>
+
+    <!-- ── Navigation ──────────────────────────────────────────────── -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_routines">Routines</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- ── Dashboard ───────────────────────────────────────────────── -->
+    <string name="greeting_morning">Good Morning, %s! ☀️</string>
+    <string name="greeting_afternoon">Good Afternoon, %s! 💪</string>
+    <string name="greeting_evening">Good Evening, %s! 🌙</string>
+    <string name="streak_format">🔥 %d-day streak</string>
+    <string name="streak_none">Start your streak today!</string>
+    <string name="today_routine">TODAY\'S ROUTINE</string>
+    <string name="rest_day">Rest Day 😌</string>
+    <string name="no_routine_scheduled">No routine scheduled</string>
+    <string name="start_todays_workout">Start Today\'s Workout</string>
+    <string name="stats_title">STATS</string>
+    <string name="calories_last_session">Calories\nLast Session</string>
+    <string name="pr_label">PR\n%s</string>
+    <string name="sets_this_week">Sets\nThis Week</string>
+    <string name="recent_workouts">RECENT WORKOUTS</string>
+    <string name="no_workouts_yet">No workouts yet.\nTap the button to start your first session!</string>
+    <string name="sets_format">%d sets</string>
+    <string name="cal_format">%s cal</string>
+    <string name="target_format">%d × %d</string>
+
+    <!-- ── Active Workout ──────────────────────────────────────────── -->
+    <string name="active_workout_title">Active Workout</string>
+    <string name="workout_timer">WORKOUT TIMER</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="finish_workout">Finish Workout</string>
+    <string name="discard_workout">Discard</string>
+    <string name="add_set">+ Add Set</string>
+    <string name="remove_exercise">Remove</string>
+    <string name="set_number_format">Set %d</string>
+    <string name="hint_reps">Reps</string>
+    <string name="hint_weight">Weight</string>
+    <string name="no_exercises_added">Tap \"Add Exercise\" to get started</string>
+    <string name="workout_saved">Workout saved! 🎉</string>
+
+    <!-- ── Exercise Picker ─────────────────────────────────────────── -->
+    <string name="select_exercise">Select Exercise</string>
+    <string name="search_exercises">Search exercises…</string>
+    <string name="no_exercises_found">No exercises found</string>
+
+    <!-- ── Dialogs ─────────────────────────────────────────────────── -->
+    <string name="confirm_finish_title">Finish Workout?</string>
+    <string name="confirm_finish_message">This will save your workout session. Empty sets will be skipped.</string>
+    <string name="confirm_discard_title">Discard Workout?</string>
+    <string name="confirm_discard_message">All data for this session will be lost.</string>
+    <string name="confirm_delete_title">Delete Workout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete_workout">Delete</string>
+
+    <!-- ── Onboarding ──────────────────────────────────────────────── -->
+    <string name="onboarding_welcome">Your next chapter
+starts with one rep.</string>
+    <string name="onboarding_subtitle">MYROUTINE ? TRAIN. TRACK. LEVEL UP.</string>
+    <string name="onboarding_name_hint">Your Name</string>
+    <string name="onboarding_age_hint">Age</string>
+    <string name="onboarding_gender">Gender</string>
+    <string name="onboarding_height_hint">Height (cm)</string>
+    <string name="onboarding_weight_hint">Weight (kg)</string>
+    <string name="onboarding_bodyfat_hint">Body Fat % (optional)</string>
+    <string name="onboarding_complete">Get Started</string>
+    <string name="onboarding_step_1">About You</string>
+    <string name="onboarding_step_2">Your Body</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_back">Back</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+    <string name="field_required">This field is required</string>
+
+    <!-- ── Profile ─────────────────────────────────────────────────── -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_edit">Edit Profile</string>
+    <string name="profile_saved">Profile updated!</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_age">Age</string>
+    <string name="profile_gender">Gender</string>
+    <string name="profile_height">Height</string>
+    <string name="profile_weight">Weight</string>
+    <string name="profile_bodyfat">Body Fat</string>
+    <string name="profile_not_set">Not set</string>
+    <string name="height_format">%s cm</string>
+    <string name="weight_format">%s kg</string>
+    <string name="bodyfat_format">%s%%</string>
+    <string name="age_format">%d years</string>
+
+    <!-- ── Routines ────────────────────────────────────────────────── -->
+    <string name="routines_title">Weekly Plan</string>
+    <string name="edit_routine">Edit Routine</string>
+    <string name="routine_name_hint">Routine Name (e.g. Push Day)</string>
+    <string name="mark_rest_day">Rest Day</string>
+    <string name="save_routine">Save Routine</string>
+    <string name="routine_saved">Routine saved!</string>
+    <string name="tap_to_set_up">Tap to set up</string>
+    <string name="add_exercise_to_routine">Add Exercise</string>
+    <string name="target_sets_hint">Target Sets</string>
+    <string name="target_reps_hint">Target Reps</string>
+    <string name="no_exercises_in_routine">No exercises added yet</string>
+
+    <!-- ── Calendar ────────────────────────────────────────────────── -->
+    <string name="calendar_title">Calendar</string>
+    <string name="no_workout_on_date">No workouts on this date</string>
+    <string name="workout_duration_format">%d min</string>
+    <string name="calories_format">🔥 %.0f cal</string>
+</resources>

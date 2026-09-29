@@ -1,0 +1,398 @@
+exercise,primary_muscle,secondary_muscles,movement_pattern,equipment,unilateral,compound_or_isolation,difficulty
+Barbell Bench Press,Chest,Front Delts;Triceps,Horizontal Push,Barbell,False,Compound,Intermediate
+Dumbbell Bench Press,Chest,Front Delts;Triceps,Horizontal Push,Dumbbell,False,Compound,Intermediate
+Machine Chest Press,Chest,Front Delts;Triceps,Horizontal Push,Machine,False,Compound,Beginner
+Smith Machine Bench Press,Chest,Front Delts;Triceps,Horizontal Push,Smith Machine,False,Compound,Beginner
+Cable Chest Press,Chest,Front Delts;Triceps,Horizontal Push,Cable,False,Compound,Intermediate
+Floor Press,Chest,Triceps;Front Delts,Horizontal Push,Barbell,False,Compound,Intermediate
+Spoto Press,Chest,Triceps;Front Delts,Horizontal Push,Barbell,False,Compound,Advanced
+Pin Press,Chest,Triceps;Front Delts,Horizontal Push,Barbell;Rack,False,Compound,Advanced
+Reverse-Grip Bench Press,Chest,Triceps;Front Delts,Horizontal Push,Barbell,False,Compound,Advanced
+Close-Grip Bench Press,Triceps,Chest;Front Delts,Horizontal Push,Barbell,False,Compound,Intermediate
+Incline Barbell Bench Press,Upper Chest,Front Delts;Triceps,Incline Push,Barbell,False,Compound,Intermediate
+Incline Dumbbell Bench Press,Upper Chest,Front Delts;Triceps,Incline Push,Dumbbell,False,Compound,Intermediate
+Incline Machine Chest Press,Upper Chest,Front Delts;Triceps,Incline Push,Machine,False,Compound,Beginner
+Incline Smith Machine Press,Upper Chest,Front Delts;Triceps,Incline Push,Smith Machine,False,Compound,Beginner
+Incline Cable Press,Upper Chest,Front Delts;Triceps,Incline Push,Cable,False,Compound,Intermediate
+Low-to-High Cable Press,Upper Chest,Front Delts;Triceps,Incline Push,Cable,False,Compound,Intermediate
+Decline Barbell Bench Press,Lower Chest,Triceps;Front Delts,Decline Push,Barbell,False,Compound,Intermediate
+Decline Dumbbell Bench Press,Lower Chest,Triceps;Front Delts,Decline Push,Dumbbell,False,Compound,Intermediate
+Decline Machine Press,Lower Chest,Triceps;Front Delts,Decline Push,Machine,False,Compound,Beginner
+Decline Smith Machine Press,Lower Chest,Triceps;Front Delts,Decline Push,Smith Machine,False,Compound,Beginner
+Dumbbell Fly,Chest,Front Delts,Horizontal Adduction,Dumbbell,False,Isolation,Intermediate
+Incline Dumbbell Fly,Upper Chest,Front Delts,Horizontal Adduction,Dumbbell,False,Isolation,Intermediate
+Decline Dumbbell Fly,Lower Chest,Front Delts,Horizontal Adduction,Dumbbell,False,Isolation,Intermediate
+Cable Fly,Chest,Front Delts,Horizontal Adduction,Cable,False,Isolation,Beginner
+Low Cable Fly,Upper Chest,Front Delts,Horizontal Adduction,Cable,False,Isolation,Beginner
+Mid Cable Fly,Chest,Front Delts,Horizontal Adduction,Cable,False,Isolation,Beginner
+High Cable Fly,Lower Chest,Front Delts,Horizontal Adduction,Cable,False,Isolation,Beginner
+Machine Pec Deck,Chest,Front Delts,Horizontal Adduction,Machine,False,Isolation,Beginner
+Standing Cable Fly,Chest,Front Delts,Horizontal Adduction,Cable,False,Isolation,Beginner
+Push-Up,Chest,Triceps;Front Delts;Core,Horizontal Push,Bodyweight,False,Compound,Beginner
+Wide-Grip Push-Up,Chest,Front Delts;Triceps,Horizontal Push,Bodyweight,False,Compound,Beginner
+Decline Push-Up,Upper Chest,Front Delts;Triceps;Core,Horizontal Push,Bodyweight,False,Compound,Intermediate
+Incline Push-Up,Lower Chest,Triceps;Front Delts,Horizontal Push,Bodyweight,False,Compound,Beginner
+Diamond Push-Up,Triceps,Chest;Front Delts,Horizontal Push,Bodyweight,False,Compound,Intermediate
+Archer Push-Up,Chest,Triceps;Front Delts;Core,Horizontal Push,Bodyweight,True,Compound,Advanced
+Weighted Push-Up,Chest,Triceps;Front Delts;Core,Horizontal Push,Weight Plate,False,Compound,Intermediate
+Ring Push-Up,Chest,Triceps;Front Delts;Core,Horizontal Push,Gymnastic Rings,False,Compound,Intermediate
+Deficit Push-Up,Chest,Triceps;Front Delts,Horizontal Push,Bodyweight,False,Compound,Intermediate
+Explosive Push-Up,Chest,Triceps;Front Delts,Horizontal Push,Bodyweight,False,Compound,Intermediate
+Clap Push-Up,Chest,Triceps;Front Delts,Horizontal Push,Bodyweight,False,Compound,Advanced
+One-Arm Push-Up,Chest,Triceps;Core;Front Delts,Horizontal Push,Bodyweight,True,Compound,Advanced
+Pull-Up,Lats,Biceps;Rhomboids;Traps,Vertical Pull,Pull-Up Bar,False,Compound,Intermediate
+Weighted Pull-Up,Lats,Biceps;Rhomboids;Traps,Vertical Pull,Pull-Up Bar;Weight Belt,False,Compound,Advanced
+Neutral-Grip Pull-Up,Lats,Biceps;Rhomboids,Vertical Pull,Pull-Up Bar,False,Compound,Intermediate
+Wide-Grip Pull-Up,Lats,Biceps;Upper Back,Vertical Pull,Pull-Up Bar,False,Compound,Intermediate
+Close-Grip Pull-Up,Lats,Biceps;Mid Back,Vertical Pull,Pull-Up Bar,False,Compound,Intermediate
+Chin-Up,Lats,Biceps;Rhomboids,Vertical Pull,Pull-Up Bar,False,Compound,Intermediate
+Weighted Chin-Up,Lats,Biceps;Rhomboids,Vertical Pull,Pull-Up Bar;Weight Belt,False,Compound,Advanced
+Neutral-Grip Chin-Up,Lats,Biceps;Rhomboids,Vertical Pull,Pull-Up Bar,False,Compound,Intermediate
+Lat Pulldown,Lats,Biceps;Rhomboids,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Beginner
+Wide-Grip Lat Pulldown,Lats,Biceps;Upper Back,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Beginner
+Close-Grip Lat Pulldown,Lats,Biceps;Mid Back,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Beginner
+Neutral-Grip Lat Pulldown,Lats,Biceps;Mid Back,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Beginner
+Reverse-Grip Lat Pulldown,Lats,Biceps;Mid Back,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Beginner
+Underhand Lat Pulldown,Lats,Biceps;Mid Back,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Beginner
+Single-Arm Lat Pulldown,Lats,Biceps;Core,Vertical Pull,Cable,True,Compound,Intermediate
+Kneeling Lat Pulldown,Lats,Biceps;Core,Vertical Pull,Cable,False,Compound,Intermediate
+Behind-the-Neck Pulldown,Lats,Biceps;Upper Back,Vertical Pull,Cable;Lat Pulldown Machine,False,Compound,Advanced
+Straight-Arm Pulldown,Lats,Teres Major;Core,Shoulder Extension,Cable,False,Isolation,Beginner
+Cable Pullover,Lats,Teres Major;Core,Shoulder Extension,Cable,False,Isolation,Beginner
+Dumbbell Pullover,Lats,Chest;Triceps,Shoulder Extension,Dumbbell,False,Compound,Intermediate
+Machine Pullover,Lats,Teres Major,Shoulder Extension,Machine,False,Isolation,Beginner
+Barbell Row,Mid Back,Lats;Rear Delts;Biceps;Traps,Horizontal Pull,Barbell,False,Compound,Intermediate
+Pendlay Row,Mid Back,Lats;Rear Delts;Biceps;Traps,Horizontal Pull,Barbell,False,Compound,Advanced
+Bent-Over Barbell Row,Mid Back,Lats;Rear Delts;Biceps,Horizontal Pull,Barbell,False,Compound,Intermediate
+Yates Row,Mid Back,Lats;Biceps;Traps,Horizontal Pull,Barbell,False,Compound,Intermediate
+Underhand Barbell Row,Mid Back,Lats;Biceps,Horizontal Pull,Barbell,False,Compound,Intermediate
+Dumbbell Row,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,Dumbbell,True,Compound,Intermediate
+One-Arm Dumbbell Row,Lats,Mid Back;Biceps;Rear Delts,Horizontal Pull,Dumbbell,True,Compound,Beginner
+Chest-Supported Dumbbell Row,Mid Back,Lats;Rear Delts;Biceps,Horizontal Pull,Dumbbell;Bench,False,Compound,Beginner
+Chest-Supported Row,Mid Back,Lats;Rear Delts;Biceps,Horizontal Pull,Machine,False,Compound,Beginner
+T-Bar Row,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,T-Bar;Plate,False,Compound,Intermediate
+Seal Row,Mid Back,Lats;Rear Delts;Biceps,Horizontal Pull,Barbell;Bench,False,Compound,Intermediate
+Landmine Row,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,Barbell;Landmine,False,Compound,Intermediate
+Seated Cable Row,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,Cable,False,Compound,Beginner
+Close-Grip Seated Cable Row,Mid Back,Lats;Biceps,Horizontal Pull,Cable,False,Compound,Beginner
+Wide-Grip Seated Cable Row,Mid Back,Lats;Rear Delts;Traps,Horizontal Pull,Cable,False,Compound,Beginner
+Neutral-Grip Seated Cable Row,Mid Back,Lats;Biceps,Horizontal Pull,Cable,False,Compound,Beginner
+Single-Arm Cable Row,Mid Back,Lats;Biceps;Core,Horizontal Pull,Cable,True,Compound,Beginner
+Cable High Row,Upper Back,Lats;Rear Delts;Traps,Horizontal Pull,Cable,False,Compound,Intermediate
+Machine Row,Mid Back,Lats;Rear Delts;Biceps,Horizontal Pull,Machine,False,Compound,Beginner
+Plate-Loaded Row,Mid Back,Lats;Rear Delts;Biceps,Horizontal Pull,Plate-Loaded Machine,False,Compound,Beginner
+Inverted Row,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,Bodyweight;Bar,False,Compound,Beginner
+Ring Row,Mid Back,Lats;Biceps;Core,Horizontal Pull,Gymnastic Rings,False,Compound,Beginner
+TRX Row,Mid Back,Lats;Biceps;Core,Horizontal Pull,Suspension Trainer,False,Compound,Beginner
+Meadows Row,Upper Back,Lats;Rear Delts;Biceps,Horizontal Pull,Barbell;Landmine,True,Compound,Advanced
+Barbell Shrug,Traps,Forearms,Scapular Elevation,Barbell,False,Isolation,Beginner
+Dumbbell Shrug,Traps,Forearms,Scapular Elevation,Dumbbell,False,Isolation,Beginner
+Cable Shrug,Traps,Forearms,Scapular Elevation,Cable,False,Isolation,Beginner
+Machine Shrug,Traps,Forearms,Scapular Elevation,Machine,False,Isolation,Beginner
+Behind-the-Back Barbell Shrug,Traps,Forearms,Scapular Elevation,Barbell,False,Isolation,Intermediate
+Trap-Bar Shrug,Traps,Forearms,Scapular Elevation,Trap Bar,False,Isolation,Intermediate
+Overhead Shrug,Upper Traps,Serratus;Shoulders,Scapular Elevation,Barbell,False,Compound,Advanced
+Farmer's Carry,Traps,Forearms;Core;Shoulders,Loaded Carry,Dumbbells;Farmer Handles,True,Compound,Intermediate
+Farmer's Walk,Traps,Forearms;Core;Shoulders,Loaded Carry,Dumbbells;Farmer Handles,True,Compound,Intermediate
+Trap-Bar Carry,Traps,Forearms;Core;Shoulders,Loaded Carry,Trap Bar,False,Compound,Intermediate
+Overhead Barbell Press,Shoulders,Triceps;Upper Chest;Core,Vertical Push,Barbell,False,Compound,Intermediate
+Standing Barbell Overhead Press,Shoulders,Triceps;Core,Vertical Push,Barbell,False,Compound,Intermediate
+Seated Barbell Overhead Press,Shoulders,Triceps,Vertical Push,Barbell;Bench,False,Compound,Intermediate
+Dumbbell Shoulder Press,Shoulders,Triceps;Upper Chest,Vertical Push,Dumbbell,False,Compound,Beginner
+Seated Dumbbell Shoulder Press,Shoulders,Triceps,Vertical Push,Dumbbell;Bench,False,Compound,Beginner
+Arnold Press,Shoulders,Triceps;Upper Chest,Vertical Push,Dumbbell,False,Compound,Intermediate
+Machine Shoulder Press,Shoulders,Triceps,Vertical Push,Machine,False,Compound,Beginner
+Smith Machine Shoulder Press,Shoulders,Triceps,Vertical Push,Smith Machine,False,Compound,Beginner
+Landmine Press,Front Delts,Triceps;Upper Chest;Core,Diagonal Push,Barbell;Landmine,True,Compound,Beginner
+Single-Arm Landmine Press,Front Delts,Triceps;Upper Chest;Core,Diagonal Push,Barbell;Landmine,True,Compound,Intermediate
+Cable Shoulder Press,Shoulders,Triceps,Vertical Push,Cable,False,Compound,Intermediate
+Front Dumbbell Raise,Front Delts,Upper Chest,Shoulder Flexion,Dumbbell,False,Isolation,Beginner
+Alternating Dumbbell Front Raise,Front Delts,Upper Chest,Shoulder Flexion,Dumbbell,True,Isolation,Beginner
+Cable Front Raise,Front Delts,Upper Chest,Shoulder Flexion,Cable,True,Isolation,Beginner
+Plate Front Raise,Front Delts,Upper Chest,Shoulder Flexion,Weight Plate,False,Isolation,Beginner
+Barbell Front Raise,Front Delts,Upper Chest,Shoulder Flexion,Barbell,False,Isolation,Intermediate
+Rope Front Raise,Front Delts,Upper Chest,Shoulder Flexion,Cable,False,Isolation,Beginner
+Dumbbell Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Dumbbell,False,Isolation,Beginner
+Seated Dumbbell Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Dumbbell,False,Isolation,Beginner
+Cable Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Cable,True,Isolation,Beginner
+Single-Arm Cable Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Cable,True,Isolation,Beginner
+Behind-the-Back Cable Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Cable,True,Isolation,Intermediate
+Leaning Cable Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Cable,True,Isolation,Intermediate
+Leaning Dumbbell Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Dumbbell,True,Isolation,Intermediate
+Machine Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Machine,False,Isolation,Beginner
+Band Lateral Raise,Side Delts,Upper Traps,Shoulder Abduction,Resistance Band,False,Isolation,Beginner
+Reverse Pec Deck,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Machine,False,Isolation,Beginner
+Rear Delt Dumbbell Fly,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Dumbbell,False,Isolation,Beginner
+Bent-Over Dumbbell Reverse Fly,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Dumbbell,False,Isolation,Beginner
+Cable Rear Delt Fly,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Cable,False,Isolation,Beginner
+Single-Arm Cable Rear Delt Fly,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Cable,True,Isolation,Beginner
+Reverse Cable Crossover,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Cable,False,Isolation,Beginner
+Chest-Supported Rear Delt Fly,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Dumbbell;Bench,False,Isolation,Beginner
+Banded Rear Delt Fly,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Resistance Band,False,Isolation,Beginner
+Face Pull,Rear Delts,External Rotators;Traps,Horizontal Pull,Cable,False,Compound,Beginner
+Rope Face Pull,Rear Delts,External Rotators;Traps,Horizontal Pull,Cable,False,Compound,Beginner
+Barbell Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Barbell,False,Isolation,Beginner
+EZ-Bar Curl,Biceps,Brachialis;Forearms,Elbow Flexion,EZ Bar,False,Isolation,Beginner
+Dumbbell Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell,False,Isolation,Beginner
+Alternating Dumbbell Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell,True,Isolation,Beginner
+Seated Dumbbell Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell;Bench,False,Isolation,Beginner
+Cable Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Cable,False,Isolation,Beginner
+Straight-Bar Cable Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Cable,False,Isolation,Beginner
+EZ-Bar Cable Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Cable;EZ Bar,False,Isolation,Beginner
+Machine Biceps Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Machine,False,Isolation,Beginner
+Preacher Curl,Biceps,Brachialis;Forearms,Elbow Flexion,EZ Bar;Preacher Bench,False,Isolation,Intermediate
+EZ-Bar Preacher Curl,Biceps,Brachialis;Forearms,Elbow Flexion,EZ Bar;Preacher Bench,False,Isolation,Intermediate
+Dumbbell Preacher Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell;Preacher Bench,True,Isolation,Intermediate
+Cable Preacher Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Cable;Preacher Bench,False,Isolation,Intermediate
+Machine Preacher Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Machine,False,Isolation,Beginner
+Incline Dumbbell Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell;Incline Bench,True,Isolation,Intermediate
+Spider Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell;Bench,False,Isolation,Intermediate
+Concentration Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Dumbbell,True,Isolation,Beginner
+Cross-Body Curl,Brachialis,Biceps;Forearms,Elbow Flexion,Dumbbell,True,Isolation,Beginner
+Drag Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Barbell,False,Isolation,Intermediate
+Bayesian Cable Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Cable,True,Isolation,Intermediate
+Behind-the-Body Cable Curl,Biceps,Brachialis;Forearms,Elbow Flexion,Cable,True,Isolation,Intermediate
+Hammer Curl,Brachialis,Biceps;Forearms,Elbow Flexion,Dumbbell,False,Isolation,Beginner
+Rope Hammer Curl,Brachialis,Biceps;Forearms,Elbow Flexion,Cable,False,Isolation,Beginner
+Cross-Body Hammer Curl,Brachialis,Biceps;Forearms,Elbow Flexion,Dumbbell,True,Isolation,Beginner
+Reverse Curl,Brachialis,Forearms;Biceps,Elbow Flexion,Barbell,False,Isolation,Beginner
+Reverse EZ-Bar Curl,Brachialis,Forearms;Biceps,Elbow Flexion,EZ Bar,False,Isolation,Beginner
+Triceps Pushdown,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Beginner
+Rope Triceps Pushdown,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Beginner
+Straight-Bar Pushdown,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Beginner
+V-Bar Pushdown,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Beginner
+Single-Arm Cable Pushdown,Triceps,Anconeus,Elbow Extension,Cable,True,Isolation,Beginner
+Reverse-Grip Pushdown,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Intermediate
+Overhead Cable Triceps Extension,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Beginner
+Rope Overhead Extension,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Beginner
+Single-Arm Overhead Extension,Triceps,Anconeus,Elbow Extension,Cable,True,Isolation,Beginner
+Skull Crusher,Triceps,Anconeus,Elbow Extension,Barbell,False,Isolation,Intermediate
+EZ-Bar Skull Crusher,Triceps,Anconeus,Elbow Extension,EZ Bar,False,Isolation,Intermediate
+Dumbbell Skull Crusher,Triceps,Anconeus,Elbow Extension,Dumbbell,False,Isolation,Intermediate
+Cable Skull Crusher,Triceps,Anconeus,Elbow Extension,Cable,False,Isolation,Intermediate
+Decline Skull Crusher,Triceps,Anconeus,Elbow Extension,EZ Bar;Bench,False,Isolation,Advanced
+Overhead Dumbbell Triceps Extension,Triceps,Anconeus,Elbow Extension,Dumbbell,False,Isolation,Beginner
+Seated Overhead Triceps Extension,Triceps,Anconeus,Elbow Extension,Dumbbell;Bench,False,Isolation,Beginner
+Barbell Overhead Extension,Triceps,Anconeus,Elbow Extension,Barbell,False,Isolation,Intermediate
+French Press,Triceps,Anconeus,Elbow Extension,EZ Bar,False,Isolation,Intermediate
+Triceps Dip,Triceps,Chest;Front Delts,Vertical Push,Parallel Bars,False,Compound,Intermediate
+Weighted Dip,Triceps,Chest;Front Delts,Vertical Push,Parallel Bars;Weight Belt,False,Compound,Advanced
+Bench Dip,Triceps,Chest;Front Delts,Vertical Push,Bench;Bodyweight,False,Compound,Beginner
+Machine Dip,Triceps,Chest;Front Delts,Vertical Push,Machine,False,Compound,Beginner
+Barbell Back Squat,Quads,Glutes;Adductors;Hamstrings;Core,Squat,Barbell,False,Compound,Intermediate
+High-Bar Squat,Quads,Glutes;Adductors;Hamstrings;Core,Squat,Barbell,False,Compound,Intermediate
+Low-Bar Squat,Glutes,Quads;Hamstrings;Adductors;Core,Squat,Barbell,False,Compound,Advanced
+Front Squat,Quads,Glutes;Core;Upper Back,Squat,Barbell,False,Compound,Advanced
+Box Squat,Glutes,Quads;Hamstrings;Core,Squat,Barbell;Box,False,Compound,Intermediate
+Pause Squat,Quads,Glutes;Adductors;Hamstrings;Core,Squat,Barbell,False,Compound,Advanced
+Tempo Squat,Quads,Glutes;Adductors;Hamstrings;Core,Squat,Barbell,False,Compound,Intermediate
+Goblet Squat,Quads,Glutes;Core,Squat,Dumbbell;Kettlebell,False,Compound,Beginner
+Hack Squat,Quads,Glutes;Adductors,Squat,Machine,False,Compound,Beginner
+Sissy Squat,Quads,Glutes,Knee Flexion,Bodyweight,False,Isolation,Advanced
+Bulgarian Split Squat,Quads,Glutes;Adductors;Core,Single-Leg Squat,Dumbbell;Bench,True,Compound,Intermediate
+Barbell Bulgarian Split Squat,Quads,Glutes;Adductors;Core,Single-Leg Squat,Barbell;Bench,True,Compound,Advanced
+Dumbbell Bulgarian Split Squat,Quads,Glutes;Adductors;Core,Single-Leg Squat,Dumbbell;Bench,True,Compound,Intermediate
+Split Squat,Quads,Glutes;Adductors;Core,Single-Leg Squat,Dumbbell;Bodyweight,True,Compound,Beginner
+Front-Foot Elevated Split Squat,Quads,Glutes;Adductors;Core,Single-Leg Squat,Dumbbell;Platform,True,Compound,Intermediate
+Reverse Lunge,Quads,Glutes;Hamstrings;Core,Lunge,Dumbbell;Barbell,True,Compound,Beginner
+Forward Lunge,Quads,Glutes;Hamstrings;Core,Lunge,Dumbbell;Barbell,True,Compound,Beginner
+Walking Lunge,Quads,Glutes;Hamstrings;Core,Lunge,Dumbbell;Barbell,True,Compound,Beginner
+Deficit Reverse Lunge,Quads,Glutes;Hamstrings;Core,Lunge,Dumbbell,True,Compound,Intermediate
+Leg Press,Quads,Glutes;Hamstrings,Leg Press,Machine,False,Compound,Beginner
+45-Degree Leg Press,Quads,Glutes;Hamstrings,Leg Press,Machine,False,Compound,Beginner
+Horizontal Leg Press,Quads,Glutes;Hamstrings,Leg Press,Machine,False,Compound,Beginner
+Single-Leg Press,Quads,Glutes;Hamstrings,Leg Press,Machine,True,Compound,Beginner
+Narrow-Stance Leg Press,Quads,Glutes;Hamstrings,Leg Press,Machine,False,Compound,Beginner
+Leg Extension,Quads,None,Knee Extension,Machine,True,Isolation,Beginner
+Single-Leg Extension,Quads,None,Knee Extension,Machine,True,Isolation,Beginner
+Romanian Deadlift,Hamstrings,Glutes;Erector Spinae;Adductors,Hip Hinge,Barbell,False,Compound,Intermediate
+Barbell Romanian Deadlift,Hamstrings,Glutes;Erector Spinae,Hip Hinge,Barbell,False,Compound,Intermediate
+Dumbbell Romanian Deadlift,Hamstrings,Glutes;Erector Spinae,Hip Hinge,Dumbbell,False,Compound,Intermediate
+Single-Leg Romanian Deadlift,Hamstrings,Glutes;Erector Spinae;Core,Hip Hinge,Dumbbell,True,Compound,Intermediate
+Stiff-Leg Deadlift,Hamstrings,Glutes;Erector Spinae,Hip Hinge,Barbell,False,Compound,Advanced
+Good Morning,Hamstrings,Glutes;Erector Spinae,Hip Hinge,Barbell,False,Compound,Advanced
+Lying Leg Curl,Hamstrings,Calves,Knee Flexion,Machine,False,Isolation,Beginner
+Seated Leg Curl,Hamstrings,Calves,Knee Flexion,Machine,False,Isolation,Beginner
+Standing Leg Curl,Hamstrings,Calves,Knee Flexion,Machine,True,Isolation,Beginner
+Single-Leg Curl,Hamstrings,Calves,Knee Flexion,Machine,True,Isolation,Beginner
+Cable Leg Curl,Hamstrings,Calves,Knee Flexion,Cable,True,Isolation,Intermediate
+Banded Leg Curl,Hamstrings,Calves,Knee Flexion,Resistance Band,False,Isolation,Beginner
+Nordic Hamstring Curl,Hamstrings,Glutes;Calves,Knee Flexion,Bodyweight;Anchor,False,Isolation,Advanced
+Glute-Ham Raise,Hamstrings,Glutes;Calves,Hip Extension;Knee Flexion,GHD Machine,False,Compound,Advanced
+Slider Leg Curl,Hamstrings,Glutes;Core,Knee Flexion,Sliders,False,Isolation,Intermediate
+Stability Ball Leg Curl,Hamstrings,Glutes;Core,Knee Flexion,Stability Ball,False,Isolation,Intermediate
+Barbell Hip Thrust,Glutes,Hamstrings;Quads;Adductors,Hip Extension,Barbell;Bench,False,Compound,Intermediate
+Dumbbell Hip Thrust,Glutes,Hamstrings;Quads,Hip Extension,Dumbbell;Bench,False,Compound,Beginner
+Smith Machine Hip Thrust,Glutes,Hamstrings;Quads,Hip Extension,Smith Machine;Bench,False,Compound,Beginner
+Machine Hip Thrust,Glutes,Hamstrings;Quads,Hip Extension,Machine,False,Compound,Beginner
+Single-Leg Hip Thrust,Glutes,Hamstrings;Core,Hip Extension,Bodyweight;Bench,True,Compound,Intermediate
+Glute Bridge,Glutes,Hamstrings,Hip Extension,Bodyweight,False,Isolation,Beginner
+Barbell Glute Bridge,Glutes,Hamstrings,Hip Extension,Barbell,False,Isolation,Intermediate
+Single-Leg Glute Bridge,Glutes,Hamstrings;Core,Hip Extension,Bodyweight,True,Isolation,Intermediate
+Cable Kickback,Glutes,Hamstrings,Hip Extension,Cable,True,Isolation,Beginner
+Standing Cable Kickback,Glutes,Hamstrings,Hip Extension,Cable,True,Isolation,Beginner
+Quadruped Cable Kickback,Glutes,Hamstrings;Core,Hip Extension,Cable,True,Isolation,Intermediate
+Banded Kickback,Glutes,Hamstrings,Hip Extension,Resistance Band,True,Isolation,Beginner
+Glute Drive,Glutes,Hamstrings;Quads,Hip Extension,Machine,False,Compound,Beginner
+Step-Up,Glutes,Quads;Hamstrings;Core,Step-Up,Box;Dumbbell,True,Compound,Beginner
+High Step-Up,Glutes,Quads;Hamstrings;Core,Step-Up,Box;Dumbbell,True,Compound,Intermediate
+Standing Calf Raise,Calves,None,Plantar Flexion,Machine,False,Isolation,Beginner
+Seated Calf Raise,Calves,None,Plantar Flexion,Machine,False,Isolation,Beginner
+Leg Press Calf Raise,Calves,None,Plantar Flexion,Leg Press Machine,False,Isolation,Beginner
+Hack Squat Calf Raise,Calves,None,Plantar Flexion,Hack Squat Machine,False,Isolation,Beginner
+Smith Machine Calf Raise,Calves,None,Plantar Flexion,Smith Machine,False,Isolation,Beginner
+Dumbbell Calf Raise,Calves,None,Plantar Flexion,Dumbbell,False,Isolation,Beginner
+Single-Leg Calf Raise,Calves,None,Plantar Flexion,Bodyweight;Dumbbell,True,Isolation,Beginner
+Calf Raise on Step,Calves,None,Plantar Flexion,Bodyweight;Step,False,Isolation,Beginner
+Donkey Calf Raise,Calves,None,Plantar Flexion,Machine;Bodyweight,False,Isolation,Intermediate
+Cable Calf Raise,Calves,None,Plantar Flexion,Cable,False,Isolation,Beginner
+Adductor Machine,Adductors,Glutes,Hip Adduction,Machine,False,Isolation,Beginner
+Cable Hip Adduction,Adductors,Glutes,Hip Adduction,Cable,True,Isolation,Beginner
+Banded Hip Adduction,Adductors,Glutes,Hip Adduction,Resistance Band,True,Isolation,Beginner
+Copenhagen Plank,Adductors,Core;Obliques,Hip Adduction,Bodyweight;Bench,True,Isometric,Advanced
+Abductor Machine,Glute Medius,Glute Minimus;TFL,Hip Abduction,Machine,False,Isolation,Beginner
+Cable Hip Abduction,Glute Medius,Glute Minimus;TFL,Hip Abduction,Cable,True,Isolation,Beginner
+Banded Hip Abduction,Glute Medius,Glute Minimus;TFL,Hip Abduction,Resistance Band,True,Isolation,Beginner
+Lateral Band Walk,Glute Medius,Glute Minimus,Hip Abduction,Resistance Band,False,Isolation,Beginner
+Monster Walk,Glute Medius,Glute Maximus;Glute Minimus,Hip Abduction,Resistance Band,False,Isolation,Beginner
+Crunch,Abs,None,Spinal Flexion,Bodyweight,False,Isolation,Beginner
+Weighted Crunch,Abs,None,Spinal Flexion,Weight Plate,False,Isolation,Beginner
+Cable Crunch,Abs,None,Spinal Flexion,Cable,False,Isolation,Beginner
+Kneeling Cable Crunch,Abs,None,Spinal Flexion,Cable,False,Isolation,Beginner
+Machine Crunch,Abs,None,Spinal Flexion,Machine,False,Isolation,Beginner
+Decline Crunch,Abs,Hip Flexors,Spinal Flexion,Bench,False,Isolation,Intermediate
+Decline Sit-Up,Abs,Hip Flexors,Spinal Flexion,Decline Bench,False,Compound,Intermediate
+Sit-Up,Abs,Hip Flexors,Spinal Flexion,Bodyweight,False,Compound,Beginner
+Weighted Sit-Up,Abs,Hip Flexors,Spinal Flexion,Weight Plate,False,Compound,Intermediate
+Hanging Leg Raise,Abs,Hip Flexors;Grip,Hip Flexion,Pull-Up Bar,False,Compound,Intermediate
+Hanging Knee Raise,Abs,Hip Flexors;Grip,Hip Flexion,Pull-Up Bar,False,Compound,Beginner
+Weighted Hanging Leg Raise,Abs,Hip Flexors;Grip,Hip Flexion,Pull-Up Bar;Weight,False,Compound,Advanced
+Captain's Chair Leg Raise,Abs,Hip Flexors,Hip Flexion,Captain's Chair,False,Compound,Beginner
+Lying Leg Raise,Abs,Hip Flexors,Hip Flexion,Bodyweight,False,Compound,Beginner
+Reverse Crunch,Abs,Hip Flexors,Posterior Pelvic Tilt,Bodyweight,False,Isolation,Beginner
+Weighted Reverse Crunch,Abs,Hip Flexors,Posterior Pelvic Tilt,Weight,False,Isolation,Intermediate
+Toes-to-Bar,Abs,Hip Flexors;Grip;Lats,Hip Flexion,Pull-Up Bar,False,Compound,Advanced
+Knee-to-Elbow,Abs,Hip Flexors;Lats;Grip,Hip Flexion,Pull-Up Bar,False,Compound,Advanced
+Ab Wheel Rollout,Abs,Lats;Triceps;Shoulders,Anti-Extension,Ab Wheel,False,Compound,Intermediate
+Barbell Rollout,Abs,Lats;Shoulders;Triceps,Anti-Extension,Barbell,False,Compound,Advanced
+Body Saw,Abs,Shoulders;Triceps,Anti-Extension,Sliders;Bodyweight,False,Compound,Intermediate
+Plank,Core,Abs;Glutes,Anti-Extension,Bodyweight,False,Isometric,Beginner
+Weighted Plank,Core,Abs;Glutes,Anti-Extension,Weight Plate,False,Isometric,Intermediate
+Side Plank,Obliques,Glute Medius;Abs,Anti-Lateral Flexion,Bodyweight,True,Isometric,Beginner
+RKC Plank,Core,Abs;Glutes,Anti-Extension,Bodyweight,False,Isometric,Advanced
+Dead Bug,Core,Abs;Hip Flexors,Anti-Extension,Bodyweight,True,Compound,Beginner
+Bird Dog,Core,Glutes;Spinal Erectors,Anti-Rotation,Bodyweight,True,Compound,Beginner
+Russian Twist,Obliques,Abs;Hip Flexors,Trunk Rotation,Bodyweight,False,Compound,Beginner
+Weighted Russian Twist,Obliques,Abs;Hip Flexors,Trunk Rotation,Weight Plate,False,Compound,Intermediate
+Cable Woodchop,Obliques,Abs;Glutes,Trunk Rotation,Cable,True,Compound,Beginner
+High-to-Low Woodchop,Obliques,Abs;Glutes,Trunk Rotation,Cable,True,Compound,Beginner
+Low-to-High Woodchop,Obliques,Abs;Glutes,Trunk Rotation,Cable,True,Compound,Beginner
+Cable Rotation,Obliques,Abs;Glutes,Trunk Rotation,Cable,True,Compound,Beginner
+Pallof Press,Core,Obliques;Glutes,Anti-Rotation,Cable;Band,True,Isometric,Beginner
+Suitcase Carry,Obliques,Core;Traps;Forearms,Loaded Carry,Dumbbell;Kettlebell,True,Compound,Intermediate
+Barbell Wrist Curl,Forearms,None,Wrist Flexion,Barbell,False,Isolation,Beginner
+Dumbbell Wrist Curl,Forearms,None,Wrist Flexion,Dumbbell,True,Isolation,Beginner
+Cable Wrist Curl,Forearms,None,Wrist Flexion,Cable,False,Isolation,Beginner
+Reverse Wrist Curl,Forearms,None,Wrist Extension,Barbell;Dumbbell,False,Isolation,Beginner
+Reverse Barbell Curl,Brachialis,Forearms;Biceps,Elbow Flexion,Barbell,False,Isolation,Beginner
+Plate Pinch,Grip,Forearms,Grip,Weight Plates,True,Isometric,Beginner
+Dead Hang,Grip,Forearms;Lats,Isometric Pull,Pull-Up Bar,False,Isometric,Beginner
+Towel Hang,Grip,Forearms;Lats,Isometric Pull,Pull-Up Bar;Towel,False,Isometric,Advanced
+Hand Gripper,Forearms,None,Grip,Hand Gripper,True,Isolation,Beginner
+Wrist Roller,Forearms,None,Wrist Flexion;Extension,Wrist Roller,False,Isolation,Beginner
+Conventional Deadlift,Erector Spinae,Glutes;Hamstrings;Lats;Traps;Forearms,Hip Hinge,Barbell,False,Compound,Advanced
+Sumo Deadlift,Glutes,Adductors;Hamstrings;Erector Spinae;Quads,Hip Hinge,Barbell,False,Compound,Advanced
+Trap-Bar Deadlift,Quads,Glutes;Hamstrings;Erector Spinae;Traps,Hip Hinge,Trap Bar,False,Compound,Intermediate
+Rack Pull,Erector Spinae,Traps;Glutes;Hamstrings;Lats,Hip Hinge,Barbell;Rack,False,Compound,Intermediate
+Block Pull,Erector Spinae,Glutes;Hamstrings;Traps;Lats,Hip Hinge,Barbell;Blocks,False,Compound,Intermediate
+45-Degree Back Extension,Erector Spinae,Glutes;Hamstrings,Hip Extension,Back Extension Bench,False,Compound,Beginner
+Reverse Hyperextension,Glutes,Hamstrings;Erector Spinae,Hip Extension,Reverse Hyper Machine,False,Compound,Intermediate
+Back Extension,Erector Spinae,Glutes;Hamstrings,Hip Extension,Back Extension Bench,False,Compound,Beginner
+Clean,Full Body,Quads;Glutes;Hamstrings;Traps;Shoulders;Core,Olympic Pull,Barbell,False,Compound,Advanced
+Power Clean,Full Body,Quads;Glutes;Hamstrings;Traps;Core,Olympic Pull,Barbell,False,Compound,Advanced
+Hang Clean,Full Body,Glutes;Hamstrings;Traps;Quads;Core,Olympic Pull,Barbell,False,Compound,Advanced
+Snatch,Full Body,Quads;Glutes;Hamstrings;Traps;Shoulders;Core,Olympic Pull,Barbell,False,Compound,Advanced
+Power Snatch,Full Body,Glutes;Quads;Hamstrings;Traps;Shoulders,Olympic Pull,Barbell,False,Compound,Advanced
+Hang Snatch,Full Body,Glutes;Hamstrings;Traps;Shoulders,Olympic Pull,Barbell,False,Compound,Advanced
+Clean and Jerk,Full Body,Quads;Glutes;Hamstrings;Traps;Shoulders;Triceps;Core,Olympic Lift,Barbell,False,Compound,Advanced
+Push Press,Shoulders,Triceps;Quads;Glutes;Core,Vertical Push,Barbell,False,Compound,Intermediate
+Push Jerk,Shoulders,Triceps;Quads;Glutes;Core,Vertical Push,Barbell,False,Compound,Advanced
+Split Jerk,Shoulders,Triceps;Quads;Glutes;Core,Vertical Push,Barbell,True,Compound,Advanced
+Kettlebell Swing,Glutes,Hamstrings;Core;Traps,Hip Hinge,Kettlebell,False,Compound,Intermediate
+Kettlebell Clean,Full Body,Glutes;Hamstrings;Traps;Shoulders;Core,Hip Hinge,Kettlebell,True,Compound,Intermediate
+Kettlebell Snatch,Full Body,Glutes;Hamstrings;Traps;Shoulders;Core,Olympic Pull,Kettlebell,True,Compound,Advanced
+Kettlebell Turkish Get-Up,Full Body,Shoulders;Core;Glutes;Quads,Get-Up,Kettlebell,True,Compound,Advanced
+Kettlebell Goblet Squat,Quads,Glutes;Core,Squat,Kettlebell,False,Compound,Beginner
+Kettlebell Clean and Press,Full Body,Glutes;Hamstrings;Shoulders;Triceps;Core,Hip Hinge;Vertical Push,Kettlebell,True,Compound,Advanced
+Thruster,Quads,Glutes;Shoulders;Triceps;Core,Squat;Vertical Push,Barbell,False,Compound,Advanced
+Dumbbell Thruster,Quads,Glutes;Shoulders;Triceps;Core,Squat;Vertical Push,Dumbbell,False,Compound,Intermediate
+Barbell Thruster,Quads,Glutes;Shoulders;Triceps;Core,Squat;Vertical Push,Barbell,False,Compound,Advanced
+Burpee,Full Body,Chest;Quads;Glutes;Core;Shoulders,Full Body,Bodyweight,False,Compound,Intermediate
+Burpee Pull-Up,Full Body,Chest;Lats;Quads;Core;Shoulders,Full Body,Bodyweight;Pull-Up Bar,False,Compound,Advanced
+Mountain Climber,Core,Shoulders;Hip Flexors;Quads,Anti-Extension,Bodyweight,True,Compound,Beginner
+Bear Crawl,Full Body,Shoulders;Core;Quads;Glutes,Crawl,Bodyweight,True,Compound,Intermediate
+Sled Push,Quads,Glutes;Hamstrings;Calves;Core,Horizontal Push,Sled,False,Compound,Intermediate
+Sled Drag,Glutes,Quads;Hamstrings;Calves;Core,Loaded Drag,Sled,False,Compound,Intermediate
+Sled Pull,Full Body,Quads;Glutes;Hamstrings;Back;Core,Loaded Pull,Sled;Rope,False,Compound,Intermediate
+Tire Flip,Full Body,Glutes;Hamstrings;Quads;Back;Core,Loaded Hinge,Tire,False,Compound,Advanced
+Sandbag Carry,Full Body,Core;Traps;Glutes;Quads,Loaded Carry,Sandbag,False,Compound,Intermediate
+Sandbag Clean,Full Body,Glutes;Hamstrings;Quads;Back;Core,Loaded Hinge,Sandbag,False,Compound,Advanced
+Sandbag Squat,Quads,Glutes;Core;Hamstrings,Squat,Sandbag,False,Compound,Intermediate
+Rope Climb,Lats,Biceps;Forearms;Core,Vertical Pull,Climbing Rope,False,Compound,Advanced
+Battle Ropes,Full Body,Shoulders;Core;Arms,Alternating Pull,Battle Ropes,True,Compound,Intermediate
+Dip,Chest,Triceps;Front Delts,Vertical Push,Parallel Bars,False,Compound,Intermediate
+Parallel Bar Dip,Triceps,Chest;Front Delts,Vertical Push,Parallel Bars,False,Compound,Intermediate
+Pike Push-Up,Shoulders,Triceps;Upper Chest;Core,Vertical Push,Bodyweight,False,Compound,Intermediate
+Handstand Push-Up,Shoulders,Triceps;Core,Vertical Push,Bodyweight,False,Compound,Advanced
+Muscle-Up,Lats,Chest;Triceps;Biceps;Core,Vertical Pull;Transition,Pull-Up Bar,False,Compound,Advanced
+Ring Muscle-Up,Full Body,Lats;Chest;Triceps;Core,Vertical Pull;Transition,Gymnastic Rings,False,Compound,Advanced
+Handstand,Shoulders,Core;Triceps,Isometric Push,Bodyweight,False,Isometric,Advanced
+Pistol Squat,Quads,Glutes;Hamstrings;Core,Single-Leg Squat,Bodyweight,True,Compound,Advanced
+Shrimp Squat,Quads,Glutes;Hamstrings;Core,Single-Leg Squat,Bodyweight,True,Compound,Advanced
+Nordic Curl,Hamstrings,Glutes;Calves,Knee Flexion,Bodyweight;Anchor,False,Isolation,Advanced
+Cossack Squat,Adductors,Quads;Glutes;Hamstrings;Core,Lateral Squat,Bodyweight,True,Compound,Intermediate
+Wall Sit,Quads,Glutes;Core,Isometric Knee Flexion,Wall,False,Isometric,Beginner
+Bodyweight Squat,Quads,Glutes;Hamstrings;Core,Squat,Bodyweight,False,Compound,Beginner
+Neck Flexion,Neck,None,Neck Flexion,Neck Harness;Plate,False,Isolation,Intermediate
+Neck Extension,Neck,None,Neck Extension,Neck Harness;Plate,False,Isolation,Intermediate
+Lateral Neck Flexion,Neck,None,Lateral Flexion,Neck Harness;Plate,True,Isolation,Intermediate
+Neck Harness Extension,Neck,None,Neck Extension,Neck Harness,False,Isolation,Intermediate
+Neck Harness Flexion,Neck,None,Neck Flexion,Neck Harness,False,Isolation,Intermediate
+Manual Neck Resistance,Neck,None,Neck Flexion;Extension,Bodyweight,False,Isolation,Beginner
+Cable External Rotation,Rotator Cuff,Rear Delts,Shoulder External Rotation,Cable,True,Isolation,Beginner
+Cable Internal Rotation,Rotator Cuff,Pectorals;Subscapularis,Shoulder Internal Rotation,Cable,True,Isolation,Beginner
+Band External Rotation,Rotator Cuff,Rear Delts,Shoulder External Rotation,Resistance Band,True,Isolation,Beginner
+Band Internal Rotation,Rotator Cuff,Chest;Shoulders,Shoulder Internal Rotation,Resistance Band,True,Isolation,Beginner
+Dumbbell External Rotation,Rotator Cuff,Rear Delts,Shoulder External Rotation,Dumbbell,True,Isolation,Beginner
+Side-Lying External Rotation,Rotator Cuff,Rear Delts,Shoulder External Rotation,Dumbbell,True,Isolation,Beginner
+90/90 External Rotation,Rotator Cuff,Rear Delts,Shoulder External Rotation,Cable;Band,True,Isolation,Intermediate
+Band Pull-Apart,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Resistance Band,False,Isolation,Beginner
+Y-Raise,Lower Traps,Rear Delts;Shoulders,Scapular Upward Rotation,Dumbbell;Bench,True,Isolation,Intermediate
+T-Raise,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Dumbbell;Bench,True,Isolation,Intermediate
+W-Raise,Rear Delts,Rhomboids;Rotator Cuff,Horizontal Abduction,Dumbbell;Bench,True,Isolation,Intermediate
+Chest Press Machine,Chest,Triceps;Front Delts,Horizontal Push,Machine,False,Compound,Beginner
+Incline Chest Press Machine,Upper Chest,Triceps;Front Delts,Incline Push,Machine,False,Compound,Beginner
+Pec Deck,Chest,Front Delts,Horizontal Adduction,Machine,False,Isolation,Beginner
+Rear Delt Machine,Rear Delts,Rhomboids;Traps,Horizontal Abduction,Machine,False,Isolation,Beginner
+Lat Pulldown Machine,Lats,Biceps;Rhomboids,Vertical Pull,Machine,False,Compound,Beginner
+Seated Row Machine,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,Machine,False,Compound,Beginner
+High Row Machine,Upper Back,Lats;Rear Delts;Biceps,Horizontal Pull,Machine,False,Compound,Beginner
+Low Row Machine,Mid Back,Lats;Biceps;Rear Delts,Horizontal Pull,Machine,False,Compound,Beginner
+Pullover Machine,Lats,Teres Major,Shoulder Extension,Machine,False,Isolation,Beginner
+Shoulder Press Machine,Shoulders,Triceps,Vertical Push,Machine,False,Compound,Beginner
+Lateral Raise Machine,Side Delts,Upper Traps,Shoulder Abduction,Machine,False,Isolation,Beginner
+Biceps Curl Machine,Biceps,Brachialis;Forearms,Elbow Flexion,Machine,False,Isolation,Beginner
+Triceps Extension Machine,Triceps,Anconeus,Elbow Extension,Machine,False,Isolation,Beginner
+Triceps Dip Machine,Triceps,Chest;Front Delts,Vertical Push,Machine,False,Compound,Beginner
+Leg Press Machine,Quads,Glutes;Hamstrings,Leg Press,Machine,False,Compound,Beginner
+Hack Squat Machine,Quads,Glutes;Adductors,Squat,Machine,False,Compound,Beginner
+V-Squat Machine,Quads,Glutes;Hamstrings,Squat,Machine,False,Compound,Beginner
+Leg Extension Machine,Quads,None,Knee Extension,Machine,False,Isolation,Beginner
+Lying Leg Curl Machine,Hamstrings,Calves,Knee Flexion,Machine,False,Isolation,Beginner
+Seated Leg Curl Machine,Hamstrings,Calves,Knee Flexion,Machine,False,Isolation,Beginner
+Standing Leg Curl Machine,Hamstrings,Calves,Knee Flexion,Machine,True,Isolation,Beginner
+Hip Thrust Machine,Glutes,Hamstrings;Quads,Hip Extension,Machine,False,Compound,Beginner
+Glute Kickback Machine,Glutes,Hamstrings,Hip Extension,Machine,True,Isolation,Beginner
+Calf Raise Machine,Calves,None,Plantar Flexion,Machine,False,Isolation,Beginner
+Ab Crunch Machine,Abs,None,Spinal Flexion,Machine,False,Isolation,Beginner
+Back Extension Machine,Erector Spinae,Glutes;Hamstrings,Hip Extension,Machine,False,Compound,Beginner

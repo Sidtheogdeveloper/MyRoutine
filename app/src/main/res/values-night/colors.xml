@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ── Core palette (Dark Theme) ─────────────────────────────────── -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary: Vibrant Light Teal (high contrast on dark surfaces) -->
+    <color name="primary">#D4FA74</color>
+    <color name="primary_dark">#D4FA74</color>
+    <color name="primary_light">#E3FFAA</color>
+    <color name="on_primary">#101210</color>
+
+    <!-- Secondary: Warm Coral Accent -->
+    <color name="secondary">#B9A2F6</color>
+    <color name="secondary_dark">#FFFF8A65</color>
+    <color name="on_secondary">#101210</color>
+
+    <!-- Surface / Background (Deep dark charcoal for OLED efficiency) -->
+    <color name="surface">#101210</color>
+    <color name="surface_variant">#252B21</color>
+    <color name="on_surface">#F2F4EB</color>
+    <color name="on_surface_variant">#9CA595</color>
+
+    <!-- Error -->
+    <color name="error">#FFEF5350</color>
+    <color name="on_error">#FFFFFFFF</color>
+
+    <!-- Utility & Card Backgrounds -->
+    <color name="divider">#30362D</color>
+    <color name="card_background">#1B1E1A</color>
+    <color name="empty_state_text">#9CA595</color>
+    <color name="ripple_tint">#33D4FA74</color>
+    <color name="chronometer_background">#303D24</color>
+    <color name="set_row_background">#252B21</color>
+
+    <!-- ── Gamification colors (Night mode tuned) ────────────────────── -->
+    <color name="streak_fire">#FFFF9800</color>
+    <color name="streak_fire_bg">#33FF9800</color>
+    <color name="stat_card_calories">#FFFF7270</color>
+    <color name="stat_card_pr">#FFB388FF</color>
+    <color name="stat_card_sets">#FF64B5F6</color>
+    <color name="stat_card_calories_bg">#2E2224</color>
+    <color name="stat_card_pr_bg">#252033</color>
+    <color name="stat_card_sets_bg">#1E2733</color>
+    <color name="rest_day_bg">#1B1E1A</color>
+    <color name="rest_day_text">#9CA595</color>
+    <color name="today_highlight">#303D24</color>
+
+    <!-- ── Onboarding ────────────────────────────────────────────────── -->
+    <color name="onboarding_gradient_start">#344228</color>
+    <color name="onboarding_gradient_end">#101210</color>
+    <color name="onboarding_header_bg">#101210</color>
+    <color name="onboarding_title">#F2F4EB</color>
+    <color name="onboarding_subtitle">#D4FA74</color>
+    <color name="onboarding_card">#1B1E1A</color>
+
+    <!-- ── Bottom nav ────────────────────────────────────────────────── -->
+    <color name="bottom_nav_active">#D4FA74</color>
+    <color name="bottom_nav_inactive">#9CA595</color>
+
+    <!-- ── Calendar ──────────────────────────────────────────────────── -->
+    <color name="calendar_workout_dot">#D4FA74</color>
+    <color name="calendar_selected_bg">#303D24</color>
+</resources>
